@@ -1,0 +1,4 @@
+name: ServerManager
+version: 1.0
+main: net.serverManager.Main.main
+author: Z3Z
